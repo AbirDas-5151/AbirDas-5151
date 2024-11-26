@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**AbirDas-5151/AbirDas-5151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hi there!** 
+**Abir here**
+- I'm a soon-to-be graduate (February 2025) with a **Bachelor of Science in Artificial Intelligence**. 
 
-Here are some ideas to get you started:
+🌟 **Experience**:  
+- AI Software Developer Intern at a **satellite startup** 🌍  
+- AI Software Developer Intern at a **drone company** 🚁  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Interests**:  
+- Training AI models 🧠  
+- Exploring open-source contributions 🌐  
+- Building innovative systems, currently focusing on **drone technology** ✈️  
+
+🎯 **Goals**:  
+Still exploring where life takes me, but for now, my focus is to learn, grow, and make a positive impact.  
+
+⚽ **Fun fact**: A huge fan of **football** and love watching **anime**!  
+
+Feel free to connect, collaborate, or share ideas! 🚀
+
+---
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbirDas-5151&show_icons=true&theme=radical)
