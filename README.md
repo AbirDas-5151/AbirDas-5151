@@ -71,8 +71,7 @@ With a solid foundation in AI research and applications, I’m also deeply inter
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbirDas-5151&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirDas-5151&layout=compact&theme=blueberry&hide_border=false" alt="Top Languages"/>
 </p>
 
